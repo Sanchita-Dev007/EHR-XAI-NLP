@@ -77,9 +77,9 @@ All results and outputs are available in the notebook.
 ---
 
 ## 👩‍💻 Author
-1.Sanchita Kumari
-2.Prerna
-3.Jhanvi Singh
-4.Sankalp Rajput
+1. Sanchita Kumari,
+2. Prerna,
+3. Jhanvi Singh,
+4. Sankalp Rajput
 [CSE(AI-ML)]
 
