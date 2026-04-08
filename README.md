@@ -76,10 +76,23 @@ All results and outputs are available in the notebook.
 
 ---
 
+## 👥 Team Contributions
+
+- **Sanchita Kumari** → Model development, training, and evaluation  
+- **Prerna** → Data preprocessing and feature engineering  
+- **Jhanvi Singh** → Visualization and performance analysis  
+- **Sankalp Rajput** → Documentation and research support  
+
+---
+
+## 🤝 Collaboration
+This project was developed collaboratively using GitHub version control.
+
 ## 👩‍💻 Author
 1. Sanchita Kumari,
 2. Prerna,
 3. Jhanvi Singh,
 4. Sankalp Rajput
 [CSE(AI-ML)]
+
 
