@@ -89,10 +89,10 @@ All results and outputs are available in the notebook.
 This project was developed collaboratively using GitHub version control.
 
 ## 👩‍💻 Author
-1. Sanchita Kumari,
-2. Prerna,
-3. Jhanvi Singh,
-4. Sankalp Rajput
-[CSE(AI-ML)]
+1. Sanchita Kumari[CSE(AI-ML)]
+2. Prerna[CSE(AI-ML)]
+3. Jhanvi Singh[CSE(AI-ML)]
+4. Sankalp Rajput[CSE(AI-ML)]
+
 
 
